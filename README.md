@@ -7,9 +7,13 @@ To compile the code
 
 $gcc BionetBF.c
 
-A Novel Bloom Filter for Faster Membership Identification of Paired Biological Network Data
 
-Contributor
+
+
+
+BionetBF: A Novel Bloom Filter for Faster Membership Identification of Paired Biological Network Data
+
+Contributed by
 
 Ms. Sabuzima Nayak
 
