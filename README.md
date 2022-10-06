@@ -1,9 +1,13 @@
 # BionetBF
-To generate dataset
+To generate dataset, first compile
 
 $gcc data-gen-id_Kmer.c
 
-To compile the code
+and then run the code
+
+$./a.out
+
+To compile the main code
 
 $gcc BionetBF.c
 
