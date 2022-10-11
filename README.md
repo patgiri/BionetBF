@@ -41,7 +41,7 @@ To run the code
 }
 ```
 
-Contributed by
+# Contributed by
 
 * Ms. Sabuzima Nayak
 
